@@ -599,6 +599,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes. [![](http://spmjs.io/badge/echo.js)](http://spmjs.io/package/echo.js)
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms. [![](http://spmjs.io/badge/platform.js)](http://spmjs.io/package/platform.js)
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms. [![](http://spmjs.io/badge/json3)](http://spmjs.io/package/json3)
+* [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and JSON toolbox that runs in the browser.
 
 
 
